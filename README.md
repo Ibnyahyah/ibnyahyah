@@ -1,11 +1,9 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://whitecoode.com)
+[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://coode.vercel.app)
 <h1 align="center">Hi 👋, I'm Ibnyahyah(Whitecoode)</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ibnyahyah&label=Profile%20views&color=0e75b6&style=flat" alt="ibnyahyah" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnyahyah&label=Profile%20views&color=0e75b6&style=flat" alt="ibnyahyah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibnyahyah" alt="ibnyahyah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibnyahyah" alt="ibnyahyah" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/whitecoode" target="blank"><img src="https://img.shields.io/twitter/follow/whitecoode?logo=twitter&style=for-the-badge" alt="whitecoode" /></a> </p>
 
@@ -15,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Startups**
 
-- 👨‍💻 All of my projects are available at [https://whitecoode.com](https://whitecoode.com)
+- 👨‍💻 All of my projects are available at [coode.vercel.app](https://coode.vercel.app)
 
-- 💬 Ask me about **React, Bootstrap, White-uicss,Javascript, MERN and Flutter.**
+- 💬 Ask me about **White-uicss, Javascript and Flutter.**
 
 - 📫 How to reach me **whitecoode@whitecoode.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xxhSJffJCym8ZaGXSBUcnOwgNAnav3ZOhQeH_aRNmpo/edit?usp=sharing](https://docs.google.com/document/d/1xxhSJffJCym8ZaGXSBUcnOwgNAnav3ZOhQeH_aRNmpo/edit?usp=sharing)
+- 📄 Know about my experiences [CV or Resume](https://docs.google.com/document/d/1xxhSJffJCym8ZaGXSBUcnOwgNAnav3ZOhQeH_aRNmpo/edit?usp=sharing)
 
 - ⚡ Fun fact **Code is what I eat**
 
