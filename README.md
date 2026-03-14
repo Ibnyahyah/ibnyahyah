@@ -1,22 +1,42 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://coode.vercel.app)
-<h1 align="center">Hi 👋, I'm Ibnyahyah(Whitecoode)</h1>
-<h3 align="center">Software Developer || Build Both Mobile and Web Application</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ibnyahyah&label=Profile%20views&color=0e75b6&style=flat" alt="ibnyahyah" /> </p>
-<p align="left"> <a href="https://twitter.com/whitecoode" target="blank"><img src="https://img.shields.io/twitter/follow/whitecoode?logo=twitter&style=for-the-badge" alt="whitecoode" /></a> </p>
+# Hi, I'm Ridwanullahi (justcoode) 👋
 
-- 👨‍💻 All of my projects are available at [coode.vercel.app](https://coode.vercel.app)
+**Software Engineer & Founder** Building scalable mobile, web, and blockchain solutions. Currently focusing on decentralized social ecosystems and fintech.
 
-- 📫 Contact [whitecoode](https://twitter.com/whitecoode)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Quick Bio
+
+- 🛠️ **Founder** at **KEDE**, all in one solution.
+- 🌐 **Building** [Socio.kim](https://socio.kim), a decentralized social media platform on the Internet Computer (ICP).
+- ✍️ **Learning** Mandarin and exploring Cybersecurity.
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Dart, Go, JavaScript (ES6+), TypeScript, Motoko |
+| **Frameworks** | Flutter, Node.js, Express |
+| **Databases** | MongoDB, PostgreSQL, Internet Computer Canisters |
+| **Tools** | Git, Docker, Xcode, Postman |
+
+### 📈 GitHub Stats
+
 <p align="left">
-<a href="https://dev.to/whitecoode" target="blank">Dev.to</a>
-<a href="https://twitter.com/whitecoode" target="blank">X(Twitter)</a>
-<a href="https://linkedin.com/in/ridwanullahi-yahyah-895633207" target="blank">Linkedin</a>
-<a href="https://instagram.com/ibnyahyah" target="blank">Instagram</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnyahyah&show_icons=true&theme=transparent" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnyahyah&theme=transparent" height="150" alt="streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">Dart, Flutter, Nodejs, Javascript, Golang, MongoDB</p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnyahyah&" alt="ibnyahyah" /></p>
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://coode.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://x.com/whitecoode"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://dev.to/whitecoode"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://socio.kim/just.coode"><img src="https://img.shields.io/badge/Socio.kim-6366F1?style=for-the-badge&logo=internet-computer&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ibnyahyah&label=Profile%20views&color=0e75b6&style=flat-square" alt="ibnyahyah" />
+</p>
